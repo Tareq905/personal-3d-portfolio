@@ -28,7 +28,7 @@ This project uses GSAP animations. Note that GSAP Club plugins are not supported
 
 ## Preview 📸
 
-![Portfolio Preview](public/images/preview.png)
+![Portfolio Preview](public/images/preview-tareq.png)
 
 ---
 
