@@ -1,15 +1,36 @@
-# My Portfolio Wesbite - Overview 🚀
+# Md Tareq Shah Alam - Portfolio Website 🚀
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+This repository contains the open source version of my portfolio website.
+Feel free to explore the code and check out the live version below.
+
+🔗 **Live Portfolio:** https://tareqshahalam.netlify.app/
+
+---
 
 ## Instructions 🛠️
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+This project uses GSAP animations. Note that GSAP Club plugins are not supported for deployment when using trial versions. For proper usage and production setup, refer to: https://gsap.com/docs/v3/Installation/
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+---
 
-![Portfolio-Preview](public/images/preview.png)
+## Tech Stack 💻
+
+* React
+* TypeScript
+* GSAP
+* Three.js
+* WebGL
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## Preview 📸
+
+![Portfolio Preview](public/images/preview.png)
+
+---
 
 ## License
 
